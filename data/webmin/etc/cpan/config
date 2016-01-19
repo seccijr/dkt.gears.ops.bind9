@@ -1,0 +1,6 @@
+cpan=http://www.cpan.org/authors/id
+incyum=1
+packages=http://www.cpan.org/modules/02packages.details.txt.gz
+refresh_days=30
+incpackages=1
+save_partial=0

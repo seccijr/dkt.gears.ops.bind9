@@ -1,0 +1,17 @@
+soft_links=1
+inittab_id=id
+boot_levels=2 3 5
+no_chkconfig=0
+desc=1
+show_opts=0
+order_digits=2
+sort_mode=0
+init_dir=/etc/init.d
+reboot_command=reboot
+status_check=0
+expert=0
+init_info=1
+init_base=/etc/
+shutdown_command=poweroff
+order=0
+atboot_product=webmin

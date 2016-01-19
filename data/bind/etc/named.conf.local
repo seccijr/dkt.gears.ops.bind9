@@ -6,3 +6,7 @@
 // organization
 //include "/etc/bind/zones.rfc1918";
 
+zone "gateway.zscaler.net" {
+	type master;
+	file "/var/lib/bind/gateway.zscaler.net.hosts";
+	};

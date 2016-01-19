@@ -6,4 +6,4 @@ gateway.zscaler.net.	IN	SOA	gateway.zscaler.net. admin.gateway.zscaler.net (
 			604800
 			38400 )
 gateway.zscaler.net.	IN	NS	gateway.zscaler.net.
-gateway.zscaler.net.	IN	A	192.168.1.254
+gateway.zscaler.net.	IN	A	213.4.28.10

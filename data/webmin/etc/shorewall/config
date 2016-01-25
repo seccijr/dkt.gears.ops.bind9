@@ -1,5 +1,5 @@
+macros=/usr/share/shorewall
 actions=/etc/shorewall/actions	/usr/share/shorewall/actions.std
 config_dir=/etc/shorewall
 shorewall=shorewall
 display_zone_descriptions=1
-macros=/usr/share/shorewall

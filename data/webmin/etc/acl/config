@@ -1,4 +1,4 @@
-ssleay=/usr/bin/openssl
-display=1
 order=0
+ssleay=/usr/bin/openssl
 select=0
+display=1

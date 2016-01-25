@@ -1,4 +1,4 @@
-mode=1
 smartctl=smartctl
-attribs=1
 ata=0
+attribs=1
+mode=1

@@ -1,9 +1,9 @@
 $ttl 38400
-gateway.zscaler.net.	IN	SOA	gateway.zscaler.net. admin.gateway.zscaler.net (
-			1453202779
+gateway.zscaler.net.	IN	SOA	cdf2b7134083. admin.gateway.zscaler.net (
+			1453712412
 			10800
 			3600
 			604800
 			38400 )
-gateway.zscaler.net.	IN	NS	gateway.zscaler.net.
+gateway.zscaler.net.	IN	NS	cdf2b7134083.
 gateway.zscaler.net.	IN	A	213.4.28.10
